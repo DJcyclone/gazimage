@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "key": 12,
+    "image": "https://raw.githubusercontent.com/DJcyclone/gazimage/main/coffee.png",
+    "thumbnail": "https://raw.githubusercontent.com/DJcyclone/gazimage/main/coffee_thumbnail.png"
+  },
+  {
+    "key": 16,
+    "image": "https://raw.githubusercontent.com/DJcyclone/gazimage/main/water.png",
+    "thumbnail": "https://raw.githubusercontent.com/DJcyclone/gazimage/main/water_thumbnail.png"
+  },
+  {
+    "key": 18,
+    "image": "https://raw.githubusercontent.com/DJcyclone/gazimage/main/bread.png",
+    "thumbnail": "https://raw.githubusercontent.com/DJcyclone/gazimage/main/bread_thumbnail.png"
+  }
+]
