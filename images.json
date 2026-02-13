@@ -1,17 +1,17 @@
 [
   {
     "key": 12,
-    "image": "https://raw.githubusercontent.com/DJcyclone/gazimage/main/coffee.png",
+    "image": "https://raw.githubusercontent.com/DJcyclone/gazimage/main/coffee_1.png",
     "thumbnail": "https://raw.githubusercontent.com/DJcyclone/gazimage/main/coffee_thumbnail.png"
   },
   {
     "key": 16,
-    "image": "https://raw.githubusercontent.com/DJcyclone/gazimage/main/water.png",
-    "thumbnail": "https://raw.githubusercontent.com/DJcyclone/gazimage/main/water_thumbnail_2.png"
+    "image": "https://raw.githubusercontent.com/DJcyclone/gazimage/main/water_1.png",
+    "thumbnail": "https://raw.githubusercontent.com/DJcyclone/gazimage/main/water_thumbnail_3.png"
   },
   {
     "key": 18,
-    "image": "https://raw.githubusercontent.com/DJcyclone/gazimage/main/bread.png",
+    "image": "https://raw.githubusercontent.com/DJcyclone/gazimage/main/bread_1.png",
     "thumbnail": "https://raw.githubusercontent.com/DJcyclone/gazimage/main/bread_thumbnail.png"
   }
 ]
