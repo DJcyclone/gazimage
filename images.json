@@ -13,5 +13,10 @@
     "key": 18,
     "image": "https://raw.githubusercontent.com/DJcyclone/gazimage/main/bread_1.png",
     "thumbnail": "https://raw.githubusercontent.com/DJcyclone/gazimage/main/bread_thumbnail.png"
+  },
+  {
+    "key": 130,
+    "image": "https://raw.githubusercontent.com/DJcyclone/gazimage/main/filter_1.png",
+    "thumbnail": "https://raw.githubusercontent.com/DJcyclone/gazimage/main/filter_thumbnail.png"
   }
 ]
